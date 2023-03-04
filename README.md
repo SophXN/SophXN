@@ -7,8 +7,9 @@
 ### 🌱 ☕
 
 #### Sophie Nguyen
-With a deep fascination in how things are built, I went out and learned how to construct buildings in my early career. And now this next chapter is all about building digital projects and seeking innovation. Carrying the practices of effective project management and collaborative design, I am equipped to build alongside innovators who strive for high impact.
-
+👷🏻‍♀️ ➡ 👩🏻‍💻 Civil engineer turned software engineer. 
+🏗 From building buildings to building web apps. 
+🌏 Down to change the world. 
 
 
 ---
