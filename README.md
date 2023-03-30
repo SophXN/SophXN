@@ -39,9 +39,7 @@
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" width="90px" height="25px">
 
 ---
- <a href="https://github.com/SophXN/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SophXN&show_icons=true&count_private=true&theme=dracula" />
-</a>
+
 <!--
 **SophXN/SophXN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
